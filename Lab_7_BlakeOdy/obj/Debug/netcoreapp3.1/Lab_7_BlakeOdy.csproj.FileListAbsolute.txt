@@ -1,0 +1,11 @@
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\bin\Debug\netcoreapp3.1\Lab_7_BlakeOdy.exe
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\bin\Debug\netcoreapp3.1\Lab_7_BlakeOdy.deps.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\bin\Debug\netcoreapp3.1\Lab_7_BlakeOdy.runtimeconfig.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\bin\Debug\netcoreapp3.1\Lab_7_BlakeOdy.runtimeconfig.dev.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\bin\Debug\netcoreapp3.1\Lab_7_BlakeOdy.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\bin\Debug\netcoreapp3.1\Lab_7_BlakeOdy.pdb
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\obj\Debug\netcoreapp3.1\Lab_7_BlakeOdy.csprojAssemblyReference.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\obj\Debug\netcoreapp3.1\Lab_7_BlakeOdy.AssemblyInfoInputs.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\obj\Debug\netcoreapp3.1\Lab_7_BlakeOdy.AssemblyInfo.cs
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\obj\Debug\netcoreapp3.1\Lab_7_BlakeOdy.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab_7_BlakeOdy\Lab_7_BlakeOdy\obj\Debug\netcoreapp3.1\Lab_7_BlakeOdy.pdb
